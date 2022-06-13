@@ -9,12 +9,13 @@
 - **Discord** *Timur Novikov#5445*
 
 ## **About Me**
-*I know exactly who I will become in the future - a programmer. Now I'm learning the basics of JS, GIT. My priorities are personal and professional growth, high stable income, family. I have been working in the field of information technology, an Internet service provider in the field of Internet and TV sales for more than 5 years. I am engaged in sales organization, result planning, control and evaluation of the performance of subordinates in order to improve performance indicators.*
+*I know exactly who I will become in the future - a programmer. Now I'm learning the basics of JS, HTML,CSS,GIT. My priorities are personal and professional growth, high stable income, family. I have been working in the field of information technology, in the field of sales for more than 5 years. I am engaged in sales organization, result planning, control and evaluation of the performance of subordinates in order to improve performance indicators.*
 
 ## **Skills**
 - *JavaScript (Basic)*
-- *Git (Basic)*
+- *CSS (Basic)*
 - *HTML (Basic)*
+- *Git (Basic)*
 
 ## **Code Example**
 ```
@@ -31,11 +32,11 @@ let x=+prompt('x?')
  let c=x**b
  alert(c)
 ```
-## **Experience**
 
 ## **Education**
 - **University:** *Ufa State Aviation Technical University,Bachelor's degree*
 - **Courses:** *[The Rolling Scopes School](https://rs.school/)*
 
-## **English**
-**A2**
+## **Languages:**
+**Russian-native;**
+**English - A2, in progress.**
