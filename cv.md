@@ -38,5 +38,5 @@ let x=+prompt('x?')
 - **Courses:** *[The Rolling Scopes School](https://rs.school/)*
 
 ## **Languages:**
-**Russian-native;**
-**English - A2, in progress.**
+- **Russian-native;**
+- **English - A2, in progress.**
