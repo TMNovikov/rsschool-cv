@@ -8,7 +8,7 @@
 - **Email:** *novikov.tim98@gmail.com*
 - **Discord** *Timur Novikov#5445*
 
-## **About Me**
+## **About me**
 *I know exactly who I will become in the future - a programmer. Now I'm learning the basics of JS, HTML,CSS,GIT. My priorities are personal and professional growth, high stable income, family. I have been working in the field of information technology, in the field of sales for more than 5 years. I am engaged in sales organization, result planning, control and evaluation of the performance of subordinates in order to improve performance indicators.*
 
 ## **Skills**
@@ -38,5 +38,5 @@ let x=+prompt('x?')
 - **Courses:** *[The Rolling Scopes School](https://rs.school/)*
 
 ## **Languages:**
-**Russian-native;**
+**Russian - Native;**
 **English - A2, in progress.**
